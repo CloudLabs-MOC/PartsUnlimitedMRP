@@ -1,0 +1,10 @@
+[ {
+  "Name": "Az400-deploy-app-with-chef-on-azure",
+  "Language": "English",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/PartsUnlimitedMRP/prod/_posts/2018-01-08-200.2x-IaC-DeployappwithChefonAzure_02.md",
+      "Order": 1
+    }
+  ]
+} ]
