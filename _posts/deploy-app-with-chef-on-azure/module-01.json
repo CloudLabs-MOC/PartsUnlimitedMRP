@@ -5,6 +5,14 @@
     {
       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/PartsUnlimitedMRP/prod/_posts/2018-01-08-200.2x-IaC-DeployappwithChefonAzure_02.md",
       "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/PartsUnlimitedMRP/prod/_posts/deploy-app-with-chef-on-azure/2018-01-08-200.2x-IaC-DeployappwithChefonAzure_03.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/PartsUnlimitedMRP/prod/_posts/deploy-app-with-chef-on-azure/2018-01-08-200.2x-IaC-DeployappwithChefonAzure_04.md",
+      "Order": 1
     }
   ]
 } ]
